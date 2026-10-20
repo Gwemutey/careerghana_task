@@ -1,0 +1,5 @@
+BUDGET ALERT: categories over budget
+
+- Marketing: spent $16,240 of $13,800 (117.7%), over by $2,440
+- Travel: spent $15,345 of $13,800 (111.2%), over by $1,545
+- Training: spent $18,639 of $14,900 (125.1%), over by $3,739
