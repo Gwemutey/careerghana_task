@@ -1,0 +1,17 @@
+Subject: Weekly Sales Report
+
+Week starting 2026-10-12
+Total revenue: $164,705 (+12.8% vs last week)
+
+TOP 5 PRODUCTS
+  1. Laptop: $57,600
+  2. Phone: $45,500
+  3. Tablet: $26,550
+  4. Monitor: $18,600
+  5. Headphones: $6,000
+
+REVENUE BY REGION (week-over-week)
+  East: $31,760 (-28.2%)
+  North: $43,145 (+53.5%)
+  South: $49,930 (+22.8%)
+  West: $39,870 (+20.8%)
